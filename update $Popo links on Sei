@@ -1,0 +1,6 @@
+type Entity = {
+  name: Popo The cat;
+  website?: https://popothecat.com | undefined;
+  telegram?: https://t.me/popothecat | undefined;
+  twitter?: https://x.com/popo_thecat | undefined;
+}
